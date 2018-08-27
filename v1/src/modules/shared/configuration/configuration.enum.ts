@@ -1,0 +1,14 @@
+export enum Configuration {
+    HOST = 'HOST',
+    PORT = 'PORT',
+    API_PREFIX = 'API_PREFIX',
+    JWT_KEY = 'JWT_KEY',
+    SWAGGER_ENABLE = 'SWAGGER_ENABLE',
+    
+    ADM_CONNECTION_NAME = 'ADM_CONNECTION_NAME',
+    ADM_HOST = 'ADM_HOST',
+    ADM_PORT = 'ADM_PORT',
+    ADM_USER = 'ADM_USER',
+    ADM_PASSWORD = 'ADM_PASSWORD',
+    ADM_DATABASE = 'ADM_DATABASE',
+}
